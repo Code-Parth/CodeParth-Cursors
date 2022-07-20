@@ -1,3 +1,3 @@
 # CodeParth-Cursors
 
-[Download ZIP]("youtube.com")
+Download [CodeParth-Cursors](https://github.com/Code-Parth/CodeParth-Cursors/archive/refs/heads/master.zip)
